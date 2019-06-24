@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-02-14 11:58:33">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>TB_SP_AUS4_NEW</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>15c83cd3dbdf6b8005d2147a3a9619b9</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>f3ef7cb6dba36bc05cfc126b3a961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_2dc591fbdbc7ef4005d2147a3a961929</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">cb85ddbbdbc7ef4005d2147a3a9619e2</sp_column><sp_widget display_value="au_multi_catalog">93f0d9f7dbc7ef4005d2147a3a9619af</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 19:36:29</sys_created_on><sys_id>2dc591fbdbc7ef4005d2147a3a961929</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_2dc591fbdbc7ef4005d2147a3a961929</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 19:36:29</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=2dc591fbdbc7ef4005d2147a3a961929"/></record_update>]]></payload>
+<payload_hash>-401984951</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>33ef7cb6dba36bc05cfc126b3a961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387200000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>3df8b017e3df6b80223ce19d82ea165a</update_guid>
+<update_guid_history>3df8b017e3df6b80223ce19d82ea165a:-401984951,a1c591fba2c7ef40f317c4fb34db792b:-401984951</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_column_cb85ddbbdbc7ef4005d2147a3a9619e2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">8b85ddbbdbc7ef4005d2147a3a9619e0</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 19:35:30</sys_created_on><sys_id>cb85ddbbdbc7ef4005d2147a3a9619e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_column_cb85ddbbdbc7ef4005d2147a3a9619e2</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 19:35:30</sys_updated_on></sp_column></record_update>]]></payload>
+<payload_hash>-1484800699</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>37ef7cb6dba36bc05cfc126b3a961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c3872e0000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Column</type>
+<update_domain>global</update_domain>
+<update_guid>f9f8b01703df6b809b2ce640683fbe5b</update_guid>
+<update_guid_history>f9f8b01703df6b809b2ce640683fbe5b:-1484800699,838551fbf2c7ef407b083f7d4cad7097:-1484800699</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>m2m_sp_ng_pro_sp_widget_1db450c4db13238005d2147a3a9619ba</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="shareCatalogData">82883665db56a70005d2147a3a9619c1</sp_angular_provider><sp_widget display_value="au_multi_catalog">93f0d9f7dbc7ef4005d2147a3a9619af</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>tbasak</sys_created_by><sys_created_on>2019-01-24 09:30:41</sys_created_on><sys_id>1db450c4db13238005d2147a3a9619ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>shareCatalogData.au_multi_catalog</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_1db450c4db13238005d2147a3a9619ba</sys_update_name><sys_updated_by>tbasak</sys_updated_by><sys_updated_on>2019-01-24 09:30:41</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+<payload_hash>1996280008</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>3bef7cb6dba36bc05cfc126b3a961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387110000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>shareCatalogData.au_multi_catalog</target_name>
+<type>Angular Providers</type>
+<update_domain>global</update_domain>
+<update_guid>b9f8b01700df6b8010a43c8cf3fd8a59</update_guid>
+<update_guid_history>b9f8b01700df6b8010a43c8cf3fd8a59:1996280008,55b450c496132380564c0052a140b6bc:1996280008</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_row_8b85ddbbdbc7ef4005d2147a3a9619e0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Make a Request  - Container 2">358551fbdbc7ef4005d2147a3a961971</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 19:35:30</sys_created_on><sys_id>8b85ddbbdbc7ef4005d2147a3a9619e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_row_8b85ddbbdbc7ef4005d2147a3a9619e0</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 19:35:30</sys_updated_on></sp_row></record_update>]]></payload>
+<payload_hash>1257692631</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>3bef7cb6dba36bc05cfc126b3a961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c3873a0000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Row</type>
+<update_domain>global</update_domain>
+<update_guid>79f8b01725df6b805cc7000ac23dcd5c</update_guid>
+<update_guid_history>79f8b01725df6b805cc7000ac23dcd5c:1257692631,8f85ddbb8ec7ef40f3bfd0adbee53ae1:1257692631</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_ng_template_c4d2d1765b8212000d7ec7ad31f91acc</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_ng_template"&gt;&lt;sp_ng_template action="INSERT_OR_UPDATE"&gt;&lt;id&gt;sp-typeahead.html&lt;/id&gt;&lt;sp_widget display_value="Typeahead Search"&gt;fa20ec02cb31020000f8d856634c9ce9&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_ng_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2016-03-12 18:52:00&lt;/sys_created_on&gt;&lt;sys_id&gt;c4d2d1765b8212000d7ec7ad31f91acc&lt;/sys_id&gt;&lt;sys_mod_count&gt;31&lt;/sys_mod_count&gt;&lt;sys_name&gt;sp-typeahead.html&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;fd9c080adbf56b40bcd191f38a961964&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_ng_template_c4d2d1765b8212000d7ec7ad31f91acc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2016-08-30 21:58:23&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;a class="ta-item" ng-href="{{match.model.target != '_blank' ? match.model.url : ''}}" target="{{match.model.target}}"&gt;
+  &lt;div ng-if="!match.model.templateID"&gt;
+    &lt;i ng-class="'ta-icon fa fa-{{match.model.glyph}}'" ng-if="match.model.glyph"&gt;&lt;/i&gt;
+    &lt;span ng-bind-html="match.label | uibTypeaheadHighlight:query"&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div ng-if="match.model.templateID" ng-include="match.model.templateID"&gt;&lt;/div&gt;
+&lt;/a&gt;]]&gt;&lt;/template&gt;&lt;/sp_ng_template&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-136587585</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>3fef7cb6dba36bc05cfc126b3a961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387780000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>sp-typeahead.html</target_name>
+<type>Angular ng-template</type>
+<update_domain>global</update_domain>
+<update_guid>86f8b017bddf6b80a38cf633a84f8060</update_guid>
+<update_guid_history>86f8b017bddf6b80a38cf633a84f8060:-136587585,87393218776a2300a56b4054c321dc15:-136587585</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_column_bd37feafdbcfaf4005d2147a3a9619ac</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>8</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">3537feafdbcfaf4005d2147a3a9619ab</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 08:03:44</sys_created_on><sys_id>bd37feafdbcfaf4005d2147a3a9619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_column_bd37feafdbcfaf4005d2147a3a9619ac</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 08:03:44</sys_updated_on></sp_column></record_update>]]></payload>
+<payload_hash>480657968</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>73ef7cb6dba36bc05cfc126b3a961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387be0000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Column</type>
+<update_domain>global</update_domain>
+<update_guid>c6f8b017bddf6b800e9d958be65bf965</update_guid>
+<update_guid_history>c6f8b017bddf6b800e9d958be65bf965:480657968,3d37feaf27cfaf40ce6e88ec427d34ad:480657968</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_widget_fa20ec02cb31020000f8d856634c9ce9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;standard&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function ($filter, $location,spAriaUtil, $window) {
+	var c = this;
+	c.options.glyph = c.options.glyph || 'search';
+	c.options.title = c.options.title || c.data.searchMsg;
+	c.options.color = c.options.color || "default";
+
+	c.onSelect = function($item, $model, $label) {
+		if ($item.target)
+			window.open($item.url, $item.target);
+		else
+			$location.url($item.url);
+	};
+
+	c.getResults = function(query) {
+		return c.server.get({q: query}).then(function(response) {
+			var a = $filter('orderBy')(response.data.results, '-score');
+			var resultCount = $filter('limitTo')(a, c.data.limit).length;
+				spAriaUtil.sendLiveMessage(parseInt(resultCount) + " " + 
+																	 c.data.resultMsg + " " +
+																	 c.data.navigationMsg + 
+																	 getNavigationKeys());
+			return $filter('limitTo')(a, c.data.limit);
+		});
+	}
+
+	c.submitSearch = function() {
+		if (c.searchTerm)
+			$location.search({
+				id: 'search',
+				t: c.data.searchType,
+				q: c.searchTerm
+			});
+	}
+	
+	function getNavigationKeys() {
+		if($window.navigator.userAgent.indexOf("Mac OS X") &gt; -1) 
+			return '⌘';
+		return 'Control';
+	}
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;ul.dropdown-menu {
+    min-width: 100%;
+    border-radius: 0px 0px 4px 4px;
+    margin:0px;
+}
+
+ul.dropdown-menu a.ta-item {
+	line-height: 20px;
+}
+
+ul.dropdown-menu i.ta-icon, i.ta-img {
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    line-height: 20px;
+    float:left;
+    margin-right: 8px;
+}
+
+input[name="q"] {
+color: black;
+}&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;typeahead-search&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function(scope) {
+	var lazyLoader = $injector.get("lazyLoader");
+	lazyLoader.putTemplates(scope.data.typeaheadTemplates);
+}]]&gt;&lt;/link&gt;&lt;name&gt;Typeahead Search&lt;/name&gt;&lt;option_schema&gt;[{"name":"title","section":"Presentation","label":"Title","type":"string"},{"name":"color","section":"Presentation","label":"Color","type":"string"},{"name":"glyph","section":"Presentation","label":"glyph","type":"string"},{"name":"size","section":"Presentation","label":"Size","type":"string"},{"hint":"Number of typeahead search results returned (default 15)","name":"limit","section":"Behavior","label":"Limit","type":"integer"},{"displayValue":"Search Source","hint":"If provided, limit the scope of the typeahead search to the given search sources","name":"contextual_search_sources","display_value_list":[],"section":"Behavior","label":"Contextual Search Sources","type":"glide_list","value":"sp_search_source","ed":{"reference":"sp_search_source"}}]&lt;/option_schema&gt;&lt;public&gt;true&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {
+	data.resultMsg = gs.getMessage("Search results");
+	data.navigationMsg = gs.getMessage("To navigate, use up and down arrow keys while holding ");
+	if (!options.contextual_search_sources)
+		data.searchType = $sp.getParameter("t");
+	else {
+		var contextualSearchSources = options.contextual_search_sources.split(",");
+		if (contextualSearchSources.length == 1) {
+			var searchSourceGR = new GlideRecord("sp_search_source");
+			if (searchSourceGR.get(contextualSearchSources[0]))
+				data.searchType = searchSourceGR.getValue("id");
+		} else
+			data.searchType = $sp.getParameter("t");
+	}
+
+	data.results = [];
+	data.searchMsg = gs.getMessage("Search");
+	data.limit = options.limit || 15;
+	var textQuery = '123TEXTQUERY321';
+
+	if (!input) {
+		data.typeaheadTemplates = {};
+
+		var searchGroupTemplatesGR = new GlideRecord("sp_search_source");
+		searchGroupTemplatesGR.query();
+		while(searchGroupTemplatesGR.next()) {
+			if (searchGroupTemplatesGR.advanced_typeahead_config)
+				data.typeaheadTemplates["sp-typeahead-" + searchGroupTemplatesGR.getValue("id") + ".html"] = $sp.translateTemplate(searchGroupTemplatesGR.getValue("typeahead_template"));
+		}
+
+		return;
+	}
+
+	data.q = input.q;
+
+	//Gotta decide if we want to use the portal's sources, or use the defaults declared by
+	//the sys property
+	var useDefaultPortals;
+	if (!$sp.getPortalRecord()) {
+		useDefaultPortals = true;
+	} else {
+		var searchSourcesForPortalGR = new GlideRecord("m2m_sp_portal_search_source");
+		searchSourcesForPortalGR.addQuery("sp_portal", $sp.getPortalRecord().getUniqueValue());
+		searchSourcesForPortalGR.query();
+		useDefaultPortals = searchSourcesForPortalGR.getRowCount() == 0;
+	}
+
+	if (options.contextual_search_sources) {
+		var contextualSearchSourceGR = new GlideRecord("sp_search_source");
+		contextualSearchSourceGR.addQuery("sys_id", "IN", options.contextual_search_sources);
+		contextualSearchSourceGR.query();
+		while (contextualSearchSourceGR.next()) {
+			data.searchType = contextualSearchSourceGR.getValue("id");
+			getResults(contextualSearchSourceGR);
+		}
+	} else if (useDefaultPortals) {
+		var defaultSearchSourceGR = new GlideRecord("sp_search_source");
+		var defaultSearchSourceIDList = gs.getProperty("glide.service_portal.default_search_sources", "");
+		defaultSearchSourceGR.addQuery("sys_id", "IN", defaultSearchSourceIDList);
+		defaultSearchSourceGR.addQuery("enable_typeahead", true);
+		defaultSearchSourceGR.query();
+		while(defaultSearchSourceGR.next()) {
+			getResults(defaultSearchSourceGR);
+		}
+	} else {
+		var m2mSearchSourceGR = new GlideRecord("m2m_sp_portal_search_source");
+		m2mSearchSourceGR.addQuery("sp_search_source.enable_typeahead", true);
+		m2mSearchSourceGR.addQuery("sp_portal", $sp.getPortalRecord().getUniqueValue());
+		m2mSearchSourceGR.query();
+		while(m2mSearchSourceGR.next()) {
+			getResults(m2mSearchSourceGR.getElement("sp_search_source").getRefRecord());
+		}
+	}
+
+	function getResults(gr) {
+		//Check if the user is allowed to see this source.
+		var userCriteria = new GlideSPUserCriteria();
+		if (userCriteria.isEnabled()) {
+			if (!userCriteria.userCanSeeSearchSource(gr.getUniqueValue()))
+				return;
+		} else {
+			var gs = GlideSession.get();
+			var searchSourceRoles = gr.getValue("roles");
+			if (searchSourceRoles &amp;&amp; !gs.hasRole(searchSourceRoles))
+				return;
+		}
+
+		if (gr.is_scripted_source) {
+			var input = {};
+			input.query = data.q;
+			var evaluator = new GlideScopedEvaluator();
+			var results = evaluator.evaluateScript(gr, "data_fetch_script", input);
+
+			results.forEach(function(item) {
+				if (gr.advanced_typeahead_config)
+					item.templateID = "sp-typeahead-" + gr.getValue("id") + ".html";
+				else {
+					item.glyph = gr.getValue("typeahead_glyph");
+					item.linkToPage = gr.getValue("page");
+				}
+				data.results.push(item);
+			});
+		} else {
+			var primaryField = gr.getValue("primary_display_field");
+			var displayFields = gr.getValue("display_fields");
+
+			var resultGR = new GlideRecordSecure(gr.getValue("source_table"));
+			var condition = gr.getValue("condition");
+			if (condition)
+				resultGR.addEncodedQuery(condition);
+			if (data.q)
+				resultGR.addQuery('123TEXTQUERY321', data.q);
+			resultGR.query();
+
+			var searchTableCount = 0;
+			while (resultGR.next() &amp;&amp; searchTableCount &lt; data.limit) {
+				if (!resultGR.canRead())
+					continue;
+
+				var secondaryValues = {};
+
+				if (displayFields)
+					displayFields.split(",").forEach(function(field) {
+						var obj = getField(resultGR, field);
+						secondaryValues[field] = obj;
+					});
+
+				var item = {
+					primary: (primaryField) ? resultGR.getValue(primaryField) : resultGR.getDisplayValue(),
+					sys_id: resultGR.getUniqueValue(),
+					table: resultGR.getTableName(),
+					fields: secondaryValues
+				};
+
+				if (gr.advanced_typeahead_config)
+					item.templateID = "sp-typeahead-" + gr.getValue("id") + ".html";
+				else {
+					item.glyph = gr.getValue("typeahead_glyph");
+					item.linkToPage = gr.getValue("page");
+				}
+
+				data.results.push(item);
+				searchTableCount++;
+			}
+		}
+
+		var pageGR = new GlideRecord("sp_page");
+		if (pageGR.get(gr.getValue("page")))
+			var pageID = pageGR.getValue("id");
+
+		data.results.forEach(function(result) {
+			if (result.url)
+				return;
+
+			if (pageID) {
+				result.url = "?id=" + pageID;
+				if (result.sys_id)
+					result.url += "&amp;sys_id=" + result.sys_id;
+				if (result.table)
+					result.url += "&amp;table=" + result.table
+			} else {
+				result.url = "";
+			}
+		});
+	}
+	
+	gs.flushMessages();
+	
+	function getField(gr, name) {
+		var f = {};
+		f.display_value = gr.getDisplayValue(name);
+		f.value = gr.getValue(name);
+		var ge = gr.getElement(name);
+		if (ge == null)
+			return f;
+
+		f.type = ge.getED().getInternalType()
+		f.label = ge.getLabel();
+		return f;
+	}
+	
+})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;true&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-08-12 00:47:31&lt;/sys_created_on&gt;&lt;sys_id&gt;fa20ec02cb31020000f8d856634c9ce9&lt;/sys_id&gt;&lt;sys_mod_count&gt;358&lt;/sys_mod_count&gt;&lt;sys_name&gt;Typeahead Search&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;fd9c080adbf56b40bcd191f38a961964&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_fa20ec02cb31020000f8d856634c9ce9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-09-18 21:24:15&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;form ng-submit="c.submitSearch()"&gt;
+  &lt;input type="hidden" name="id" value="search"/&gt;
+  &lt;input type="hidden" name="t" value="{{data.searchType}}"/&gt;
+  &lt;div class="input-group input-group-{{::c.options.size}}"&gt;
+    &lt;!-- uses ui.bootstrap.typeahead --&gt;
+    &lt;input name="q" type="text" placeholder="{{::c.options.title}}" ng-model="c.searchTerm"
+           autocomplete="off"
+           uib-typeahead="item as item.primary for item in c.getResults($viewValue)"
+           typeahead-wait-ms="250"
+           typeahead-focus-first="false"
+           typeahead-on-select="c.onSelect($item, $model, $label)"
+           typeahead-template-url="sp-typeahead.html"
+           typeahead-popup-template-url="sp-typeahead-popup.html"
+           class="form-control input-typeahead"
+           title="{{::c.options.title}}"
+           role="textbox"
+           aria-label="{{::c.options.title}}" tabindex="0" aria-haspopup="true"&gt;
+    &lt;span class="input-group-btn"&gt;
+      &lt;button name="search" type="submit" class="btn btn-{{::c.options.color}}"
+              title="{{::c.options.title}}"
+              aria-label="{{::c.options.title}}"&gt;
+    	&lt;i ng-if="::c.options.glyph" class="fa fa-{{::c.options.glyph}}"&gt;&lt;/i&gt;
+      &lt;/button&gt;
+    &lt;/span&gt;
+  &lt;/div&gt;
+&lt;/form&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload>
+<payload_hash>387019805</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>73ef7cb6dba36bc05cfc126b3a96193a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c3875a0000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>Typeahead Search</target_name>
+<type>Widget</type>
+<update_domain>global</update_domain>
+<update_guid>f9f8b0173bdf6b8023c033c766862d5e</update_guid>
+<update_guid_history>f9f8b0173bdf6b8023c033c766862d5e:387019805,cf393218eb6a23006b4ae6859dce1e21:387019805</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_row_3537feafdbcfaf4005d2147a3a9619ab</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Make a Request  - Container 1">bd373eafdbcfaf4005d2147a3a961942</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 08:03:44</sys_created_on><sys_id>3537feafdbcfaf4005d2147a3a9619ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_row_3537feafdbcfaf4005d2147a3a9619ab</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 08:03:44</sys_updated_on></sp_row></record_update>]]></payload>
+<payload_hash>395117459</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>77ef7cb6dba36bc05cfc126b3a961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387c90000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Row</type>
+<update_domain>global</update_domain>
+<update_guid>06f8b017a1df6b808355c91b09a9d666</update_guid>
+<update_guid_history>06f8b017a1df6b808355c91b09a9d666:395117459,7137feafe0cfaf40fb0cecedd8b7c9ac:-1623779924</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_ng_template_9eb01fed670322007eb519a557415a8b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_ng_template"&gt;&lt;sp_ng_template action="INSERT_OR_UPDATE"&gt;&lt;id&gt;sp-typeahead-popup.html&lt;/id&gt;&lt;sp_widget display_value="Typeahead Search"&gt;fa20ec02cb31020000f8d856634c9ce9&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_ng_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2016-11-12 20:03:47&lt;/sys_created_on&gt;&lt;sys_id&gt;9eb01fed670322007eb519a557415a8b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;sp-typeahead-popup.html&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;fd9c080adbf56b40bcd191f38a961964&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_ng_template_9eb01fed670322007eb519a557415a8b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2016-11-12 20:03:47&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;ul class="dropdown-menu" ng-show="isOpen() &amp;&amp; !moveInProgress" ng-style="{top: position().top+'px', left: position().left+'px'}" role="listbox" aria-hidden="{{!isOpen()}}"&gt;
+    &lt;li role='option' aria-hidden='true' style='display: none'&gt;&lt;/li&gt;    
+  	&lt;li ng-repeat="match in matches track by $index" ng-class="{active: isActive($index) }" 
+        ng-mouseenter="selectActive($index)" 
+        ng-click="selectMatch($index, $event)" 
+        role="option" id="{{::match.id}}"&gt;
+        &lt;div uib-typeahead-match index="$index" match="match" query="query" template-url="templateUrl"&gt;&lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;]]&gt;&lt;/template&gt;&lt;/sp_ng_template&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1694163287</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>7bef7cb6dba36bc05cfc126b3a961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c3876d0000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>sp-typeahead-popup.html</target_name>
+<type>Angular ng-template</type>
+<update_domain>global</update_domain>
+<update_guid>b9f8b01756df6b8070f320c99546905f</update_guid>
+<update_guid_history>b9f8b01756df6b8070f320c99546905f:-1694163287,0b393218a06a2300a4f43f4854552613:-1694163287</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_06a3b2c15b3212000d7ec7ad31f91a64</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color/&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;0&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size/&gt;&lt;sp_column display_value="2"&gt;4d93fe815b3212000d7ec7ad31f91a12&lt;/sp_column&gt;&lt;sp_widget display_value="Typeahead Search"&gt;fa20ec02cb31020000f8d856634c9ce9&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2016-04-13 22:11:54&lt;/sys_created_on&gt;&lt;sys_id&gt;06a3b2c15b3212000d7ec7ad31f91a64&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Service Portal - Service Catalog (do not activate...see plugin description)" source="com.glide.service-portal.service-catalog"&gt;0abc444adbf56b40bcd191f38a961992&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_06a3b2c15b3212000d7ec7ad31f91a64&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2016-10-14 21:15:41&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"size": {
+		"value": "",
+		"displayValue": ""
+	},
+	"limit": {
+		"value": null,
+		"displayValue": ""
+	},
+	"contextual_search_sources": {
+		"value": "c96eb1686721220023c82e08f585efff",
+		"displayValue": "Service Catalog"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=06a3b2c15b3212000d7ec7ad31f91a64"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1053839339</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>7fef7cb6dba36bc05cfc126b3a961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c984c20000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>3d7afc1759df6b80839cac62625c5bb6</update_guid>
+<update_guid_history>3d7afc1759df6b80839cac62625c5bb6:1053839339</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_rectangle_menu_item_8c72036fdb03ef4005d2147a3a9619dc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item"><sp_rectangle_menu_item action="INSERT_OR_UPDATE"><active>true</active><color>default</color><condition/><display_1/><display_2/><display_date/><filter/><glyph/><hint/><kb_article/><kb_category/><kb_topic/><label>Service Catalog</label><order>100</order><record_script/><sc_cat_item/><sc_category/><short_description/><sp_page display_value="aumulti_catalog_home">79373eafdbcfaf4005d2147a3a961940</sp_page><sp_rectangle_menu display_value="AU Header Menu">a002cb2fdb03ef4005d2147a3a9619fb</sp_rectangle_menu><sp_rectangle_menu_item/><sys_class_name>sp_rectangle_menu_item</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 08:53:15</sys_created_on><sys_id>8c72036fdb03ef4005d2147a3a9619dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_rectangle_menu_item_8c72036fdb03ef4005d2147a3a9619dc</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 08:53:15</sys_updated_on><table/><type>page</type><url/><url_target/></sp_rectangle_menu_item><sys_translated_text action="delete_multiple" query="documentkey=8c72036fdb03ef4005d2147a3a9619dc"/></record_update>]]></payload>
+<payload_hash>864837681</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>b3ef7cb6dba36bc05cfc126b3a961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387e90000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>Service Catalog</target_name>
+<type>Menu Item</type>
+<update_domain>global</update_domain>
+<update_guid>c6f8b017aadf6b80844196cb78650368</update_guid>
+<update_guid_history>c6f8b017aadf6b80844196cb78650368:864837681,8f828f2f2703ef40d7aa812352bee2f4:864837681</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_f937feafdbcfaf4005d2147a3a9619ae</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">bd37feafdbcfaf4005d2147a3a9619ac</sp_column><sp_widget display_value="breadcrumbs">0fb269305b3212000d7ec7ad31f91ae2</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 08:03:44</sys_created_on><sys_id>f937feafdbcfaf4005d2147a3a9619ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_f937feafdbcfaf4005d2147a3a9619ae</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 08:03:44</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=f937feafdbcfaf4005d2147a3a9619ae"/></record_update>]]></payload>
+<payload_hash>1509252206</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>b7ef7cb6dba36bc05cfc126b3a961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387b30000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>8af8b017fcdf6b807c330b90967ea164</update_guid>
+<update_guid_history>8af8b017fcdf6b807c330b90967ea164:1509252206,bd37feaf08cfaf40071dc923730937af:1509252206</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_container_bd373eafdbcfaf4005d2147a3a961942</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color>#000000</background_color><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>breadcrumbs-container</class_name><container_class_name/><name>Make a Request  - Container 1</name><order>1</order><sp_page display_value="aumulti_catalog_home">79373eafdbcfaf4005d2147a3a961940</sp_page><subheader>true</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 08:03:44</sys_created_on><sys_id>bd373eafdbcfaf4005d2147a3a961942</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Make a Request  - Container 1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_container_bd373eafdbcfaf4005d2147a3a961942</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 19:34:49</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+<payload_hash>1575191842</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>bbef7cb6dba36bc05cfc126b3a961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387da0000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>Make a Request  - Container 1</target_name>
+<type>Container</type>
+<update_domain>global</update_domain>
+<update_guid>86f8b017eddf6b80e7956f983cdd9867</update_guid>
+<update_guid_history>86f8b017eddf6b80e7956f983cdd9867:1575191842,4d65ddbb79c7ef40feb798637972aada:1575191842,a467fa236903ef40f0e17beef74aa6d9:-1347296045,b147ba236603ef4002398b810993f235:-1735483459,3d373eaf38cfaf406c7d63023fcf1943:-357432599</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_column_b937feafdbcfaf4005d2147a3a9619b0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><size>4</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">3537feafdbcfaf4005d2147a3a9619ab</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 08:03:44</sys_created_on><sys_id>b937feafdbcfaf4005d2147a3a9619b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_column_b937feafdbcfaf4005d2147a3a9619b0</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 08:03:44</sys_updated_on></sp_column></record_update>]]></payload>
+<payload_hash>1476974646</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>bfef7cb6dba36bc05cfc126b3a961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387930000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>2</target_name>
+<type>Column</type>
+<update_domain>global</update_domain>
+<update_guid>46f8b01767df6b80fed5eab667df3862</update_guid>
+<update_guid_history>46f8b01767df6b80fed5eab667df3862:1476974646,b537feaf3ccfaf40e759426a2c7decb1:1476974646</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_widget_93f0d9f7dbc7ef4005d2147a3a9619af</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;custom&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function($scope,$rootScope,$location,shareCatalogData,$timeout) {
+  /* widget controller */
+			var c = this;
+		$scope.catalogListData = c.data.uniqueArray;
+	console.log($scope.catalogListData );
+		$scope.sendCatalog = function(catalogItem) {
+			$scope.catalogItem = catalogItem;
+		shareCatalogData.myFunc($scope.catalogItem);
+			$location.search('id', 'sc_home_au');
+	};
+
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt; .panel {&amp;#13;
+    margin-left: 0px;&amp;#13;
+    background-color: #fff;&amp;#13;
+    border: 1px solid #97999B 0.7;&amp;#13;
+    border-radius: 4px;&amp;#13;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);&amp;#13;
+    box-shadow: 3px 3px 0px rgba(0,0,0,0.18);&amp;#13;
+    width: 100%;&amp;#13;
+    height: 200px;  &amp;#13;
+   -webkit-transition: transform 2s ease-in-out;&amp;#13;
+    -moz-transition: transform 2s ease-in-out;&amp;#13;
+    transition: transform 2s ease-in-out;&amp;#13;
+}&amp;#13;
+&amp;#13;
+&amp;#13;
+.eachCatelog{&amp;#13;
+ max-height:239.95px; &amp;#13;
+  min-height: 170px;&amp;#13;
+      background-origin: border-box;&amp;#13;
+    background-repeat: no-repeat;&amp;#13;
+    background-size: 189px 148px;&amp;#13;
+    background-position: bottom;&amp;#13;
+  &amp;#13;
+}&amp;#13;
+&amp;#13;
+&amp;#13;
+.margin_multi_catalog {&amp;#13;
+ margin-top:10px;&amp;#13;
+  padding: 10px;&amp;#13;
+}&amp;#13;
+.panel:hover { &amp;#13;
+  	-moz-transform: scale(1.05);&amp;#13;
+    -webkit-transform: scale(1.05);&amp;#13;
+    -o-transform: scale(1.05);&amp;#13;
+    -ms-transform: scale(1.05);&amp;#13;
+    -webkit-transform: scale(1.05);&amp;#13;
+    transform: scale(1.05);&amp;#13;
+}&amp;#13;
+.cust_pad {&amp;#13;
+ padding: 8px !important; &amp;#13;
+}&amp;#13;
+.panel-title {&amp;#13;
+  color: #53565a;&amp;#13;
+    padding: 15px;&amp;#13;
+   text-align: -webkit-center;&amp;#13;
+  text-align: center;&amp;#13;
+    display: block;&amp;#13;
+}&amp;#13;
+&amp;#13;
+&amp;#13;
+.description{&amp;#13;
+   color: #53565a;&amp;#13;
+    font-weight: 800;&amp;#13;
+    margin: 0px 5px;&amp;#13;
+    font-size: 13px;&amp;#13;
+    margin-top: 0px;&amp;#13;
+  padding: 10px;&amp;#13;
+  &amp;#13;
+}&amp;#13;
+&amp;#13;
+.panel-body {&amp;#13;
+    padding: 0;&amp;#13;
+}&amp;#13;
+&amp;#13;
+&amp;#13;
+.multi_catalog_mar {&amp;#13;
+ margin-top: 10px; &amp;#13;
+}&amp;#13;
+.inc-image {&amp;#13;
+    width: 180px;&amp;#13;
+    height: 196px;&amp;#13;
+    padding: 0;&amp;#13;
+    margin-bottom: 0px !important;&amp;#13;
+    border-right: 1px solid #BBBCBC;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.textBlock{&amp;#13;
+border-left:1px solid #97999B 0.7;&amp;#13;
+}&amp;#13;
+&amp;#13;
+&amp;#13;
+&amp;#13;
+//Hover &amp;#13;
+&amp;#13;
+.overlay {&amp;#13;
+ 	position: absolute;&amp;#13;
+    top: 60px;&amp;#13;
+    border-radius: 5px;&amp;#13;
+    bottom: 0;&amp;#13;
+    left: 11px;&amp;#13;
+    right: 0;&amp;#13;
+    height: 62%;&amp;#13;
+    width: 92%;&amp;#13;
+    opacity: 0;&amp;#13;
+    transition: .5s ease;&amp;#13;
+    background-color: #87cefa;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.description:hover .overlay {&amp;#13;
+  opacity: 0.7;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.text {&amp;#13;
+  color: red;&amp;#13;
+  font-size: 20px;&amp;#13;
+  position: absolute;&amp;#13;
+  top: 50%;&amp;#13;
+  left: 50%;&amp;#13;
+  -webkit-transform: translate(-50%, -50%);&amp;#13;
+  -ms-transform: translate(-50%, -50%);&amp;#13;
+  transform: translate(-50%, -50%);&amp;#13;
+  text-align: center;&amp;#13;
+}&amp;#13;
+&amp;#13;
+&amp;#13;
+&amp;#13;
+&amp;#13;
+&amp;#13;
+&amp;#13;
+&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;au_multi_catalog&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link/&gt;&lt;name&gt;au_multi_catalog&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+	
+	data.catalogList = [];
+	data.sc_catalog = $sp.getValue('sc_catalog'); 
+	var gr = new GlideRecord("sc_cat_item");
+	gr.addQuery('sc_catalogs',data.sc_catalog);
+	// gr.addEncodedQuery('sys_id=223b1261db4eab0005d2147a3a96196c^ORsys_id=642a09eddbde670005d2147a3a9619df^ORsys_id=69cb1a61db4eab0005d2147a3a961918');
+	gr.addQuery('active', true);
+	gr.query();
+	
+	while(gr.next()){
+		var temp = {};
+		temp.title = gr.category.parent.title.getDisplayValue();
+		temp.desc = gr.category.parent.description.getDisplayValue();
+		temp.sysid = gr.category.parent.sys_id.toString();
+		temp.src = gr.category.parent.u_portal_image.getDisplayValue();
+		if(temp.title)
+		data.catalogList.push(temp);
+	}
+	
+	data.uniqueArray = data.catalogList.filter(function(li, idx, self) {
+	return	self.map(function(itm) {
+		return itm.title;
+	}).indexOf(li.title) === idx;
+	});
+
+	
+})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admtanoy&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-01-23 19:30:17&lt;/sys_created_on&gt;&lt;sys_id&gt;93f0d9f7dbc7ef4005d2147a3a9619af&lt;/sys_id&gt;&lt;sys_mod_count&gt;59&lt;/sys_mod_count&gt;&lt;sys_name&gt;au_multi_catalog&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_93f0d9f7dbc7ef4005d2147a3a9619af&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;tbasak&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-01-29 03:51:25&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div class="row margin_multi_catalog" &gt;     
+  &lt;div class="col-sm-6 col-md-3"   ng-repeat="inc in catalogListData" &gt;
+    &lt;div ng-click="sendCatalog(inc.title)" class="panel panel-default  eachCatelog"  ng-style="{'background-image':'url(' + inc.src + ')'}"&gt;
+      &lt;!-- Hub engagement and CoRe Creative services customized links &gt;&lt;/--&gt;
+      &lt;a class="panel-body block"  &gt;
+        &lt;div class="content"&gt;          
+          &lt;img ng-if="inc.img" class="m-r-sm m-b-sm inc-image pull-left" height="40" width="40"/&gt;
+          &lt;div class="text-muted inc-short-desc textBlock"&gt;
+            &lt;div class=""&gt;&lt;h3 class="m-t-none m-b-xs panel-title"&gt;&lt;b&gt;{{inc.title}}&lt;/b&gt;&lt;/h3&gt;
+              &lt;div class="description"&gt;
+              &lt;div class="overlay"&gt;
+            	&lt;div class="cust_pad text-center description"&gt;Australia Service Catalog&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1485738745</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>bfef7cb6dba36bc05cfc126b3a961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c386f00000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>au_multi_catalog</target_name>
+<type>Widget</type>
+<update_domain>global</update_domain>
+<update_guid>3df8b01714df6b8019b7c4bb03163557</update_guid>
+<update_guid_history>3df8b01714df6b8019b7c4bb03163557:-1485738745,d40774ed435b278071d8efe1cba3966b:-1485738745,fd8570adf15b2780e1b6a237c4bb8929:203704592,8c34302d015b2780429f83ff126e5d0e:959937325,7cd3bce92d5b278023aecbdf30b7c758:-1979551727,40a3f0e9735b278080c0b0db96c3a71b:1124862033,aa6374e9d35b2780ecf39d4f69af8c21:-1979551727,53f8a598d7df2380929a4687f9670035:-766765760,e508e19c0b1b6780060b2f67f5505334:1511105970,18957dc0c857238093361b30c593ff7c:-278827826,f92131402d572380e8b29d8d39328a2a:1804612450,140171402857238014c0cb353c0e4e8e:817152352,5d80f500dd57238063b84108028e215b:1639484753,4050f10036572380d507912658037b65:-574872971,e9bfe1001a572380c31e6eb77dce8393:1134929864,377f2500de5723802d04d5b66b47ac55:1823424536,333f65cc6e1723805ff65fc529c9ece5:265785994,877ee5cc51172380b2346d5ba62ad4d5:-1562270568,e31e65ccf1172380efaff7882b683f13:-1127419650,794da98c0f1723808536e5ffded99792:-1849663556,e01d6d4c22172380b8fb4ae1be7379c7:-1338394244,552bed0c6f172380e12da5bb01c5d3e6:1150045845,88ea214cfa172380090d339b747f5e4c:-1695436404,2a59a5c80e1723808592eedb8ee2c026:1150045845,82292dc845172380c70550a83ba6cf62:2101527973,1b98a5c8211723806e86c96aefe2900d:385615819,d96869882617238078c23d09f7e135c8:414531808,5b7769885b172380fd19ce6ac6d74629:385615819,a937a588fa1723805a062a813f05dcaa:1705375352,63862188ca1723801f8d38f376c0b4ca:768689899,34466d48d51723803e4afd2a9087f717:-1063103407,e673cd00e9d3238026d54d3b4199c12a:-682441622,0df6f0085f93238058a7d92b4fd09136:894914160,69d574c4cd932380b57d6bd57d2db8d9:1422969228,47b4f084e9932380fddb2f248e68843b:2034463076,29727c04129323805ad1a7ac8d2fb366:-1931391462,f82594c4001323807c4bdfcefe76e53d:1222559086,1b94d484d513238041c6690d8a861018:820290718,dd35fab74bcbef403b4e44f49eca69d3:-2055394901,a31432b7decbef40a95a23dda80113aa:-1931413975,56047e77b5cbef403b05a3b2e62d72bf:1338983530,63e33e770ecbef4025b440b787b5ad81:-804008967,71c33e77afcbef40572a529639d80baf:-346915563,6b8336779ecbef40cd6c1d6723e349d2:281315899,81333677c3cbef405dd65941ffe20921:1949631244,aec23277bccbef4018cff7b56bebfb86:-607988836,f2c17637b5cbef40c499d42e5237f4d6:-583570954,057c26338fcbef40b16d03f2e71f5407:296504162,6d7a62ff7e8bef40cc0f75a2aed9f460:1363499623,d7a9aebff08bef4044608e7ae7dbbd1a:338471053,454a9d7f6ec7ef40f7211bb947b0b88b:1363499623,6009197f3bc7ef4069745c60ec6a7e93:-282661200,72b8157facc7ef401dc45d5bcb3a6405:-1523201408,d168517fa7c7ef4080a8ae3b27f36249:-282661200,d238517f13c7ef402292f4be4df60384:1276568544,6397d13f8bc7ef40a45015e82a8152c0:91580670,6457553f28c7ef40b453862caab6c00b:492942542,8d27d13fb0c7ef401f704cd1b2131f4f:-1039548969,77e595fb39c7ef408d535a2a56c0a60b:-1262827416,62b551fbe1c7ef40347bd8794a630a76:894157920,2a541d7b59c7ef40cf5bcfe597974a92:-100881707</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_7537feafdbcfaf4005d2147a3a9619b2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">b937feafdbcfaf4005d2147a3a9619b0</sp_column><sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 08:03:44</sys_created_on><sys_id>7537feafdbcfaf4005d2147a3a9619b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_7537feafdbcfaf4005d2147a3a9619b2</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 08:03:44</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=7537feafdbcfaf4005d2147a3a9619b2"/></record_update>]]></payload>
+<payload_hash>2054188338</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>f3ef7cb6dba36bc05cfc126b3a961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c84ebb0000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>562a781703df6b8005bbc73bd7f9cf62</update_guid>
+<update_guid_history>562a781703df6b8005bbc73bd7f9cf62:2054188338,3937feaf98cfaf40486f87cb70cfb3b3:2054188338</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_container_358551fbdbc7ef4005d2147a3a961971</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Make a Request  - Container 2</name><order>2</order><sp_page display_value="aumulti_catalog_home">79373eafdbcfaf4005d2147a3a961940</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 19:35:25</sys_created_on><sys_id>358551fbdbc7ef4005d2147a3a961971</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Make a Request  - Container 2</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_container_358551fbdbc7ef4005d2147a3a961971</sys_update_name><sys_updated_by>admtanoy</sys_updated_by><sys_updated_on>2019-01-23 19:35:25</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+<payload_hash>-1525261751</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>f7ef7cb6dba36bc05cfc126b3a961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387460000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>Make a Request  - Container 2</target_name>
+<type>Container</type>
+<update_domain>global</update_domain>
+<update_guid>f5f8b017e5df6b80b2955a139c56ff5d</update_guid>
+<update_guid_history>f5f8b017e5df6b80b2955a139c56ff5d:-1525261751,0a8551fb2cc7ef401d5ccef84c5b4872:-1525261751</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_angular_provider_82883665db56a70005d2147a3a9619c1</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_angular_provider"&gt;&lt;sp_angular_provider action="INSERT_OR_UPDATE"&gt;&lt;name&gt;shareCatalogData&lt;/name&gt;&lt;script&gt;&lt;![CDATA[function shareCatalogData() {
+	var catalogData;
+	this.myFunc=function(s){
+	this.catalogData = s;
+		
+};
+	
+this.getData=function(){
+ return this.catalogData;
+ };
+	
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sp_angular_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admTanoy&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-12-10 20:18:28&lt;/sys_created_on&gt;&lt;sys_id&gt;82883665db56a70005d2147a3a9619c1&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;shareCatalogData&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_angular_provider_82883665db56a70005d2147a3a9619c1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admTanoy&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-12-11 07:46:30&lt;/sys_updated_on&gt;&lt;type&gt;service&lt;/type&gt;&lt;/sp_angular_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2062478429</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>fbef7cb6dba36bc05cfc126b3a961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387050000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>shareCatalogData</target_name>
+<type>Widget Angular Provider</type>
+<update_domain>global</update_domain>
+<update_guid>bdf8b01734df6b808bec412b72e6ed58</update_guid>
+<update_guid_history>bdf8b01734df6b808bec412b72e6ed58:-2062478429,1d29d9f16dd6a7004a74ef25c766e08d:-2062478429,0ae6d1b126d6a700a222e683141e0d92:-2062478429,bfd6d1b1fed6a7002af9cd6fc31dfa8e:1369406006,a2d387ad6656a7008ff8f0f4f405d933:-2062478429,9c52836d1756a700e0c67a90b1d0c1b7:283914466,d3a1cfe95456a700c2a1c6aab312b7ab:17320835,5a014fe99056a700f39dbd7a97730b96:1757363160,d05043e96956a7004ca7f72ba53d99cc:8194429,61ff36a97856a700bc5004e363341c74:-1492719,92fd7669e756a700d452c5d1493832c8:1444972056,567c7ae5b856a7000e7b1d8e19321d0c:2046629480,783b72e51b56a700bcc8e3a025325152:418506165,ab69fe251d56a7000bf0361cd27753d3:-86547200</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_widget_0fb269305b3212000d7ec7ad31f91ae2</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;standard&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function($scope, $rootScope, spUtil) {
+	var c = this;
+	c.expanded = !spUtil.isMobile();
+	c.expand = function() {
+		c.expanded = true;
+	};
+
+	var deregister = $rootScope.$on("sp.update.breadcrumbs", function(e, list) {
+		c.breadcrumbs = list;
+	});
+	
+	$scope.$on('$destroy', function(){ 
+		deregister();
+	});
+
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;.nav {
+  li {
+    padding: 10px 7px;
+
+    &amp;gt; span {
+      &amp;gt; a {
+          display: inline;
+      }
+
+      &amp;gt; i {
+          padding-left: 15px;
+      }
+    }
+  }
+}
+
+.a-disabled {
+  cursor: default;
+  color: inherit;
+}&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;breadcrumbs&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link/&gt;&lt;name&gt;breadcrumbs&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;script/&gt;&lt;servicenow&gt;true&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2016-04-12 21:39:53&lt;/sys_created_on&gt;&lt;sys_id&gt;0fb269305b3212000d7ec7ad31f91ae2&lt;/sys_id&gt;&lt;sys_mod_count&gt;30&lt;/sys_mod_count&gt;&lt;sys_name&gt;breadcrumbs&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;fd9c080adbf56b40bcd191f38a961964&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_0fb269305b3212000d7ec7ad31f91ae2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-08-24 18:58:51&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;ul class="nav nav-pills nav-sm" aria-label="${Navigation breadcrumbs}"&gt;
+  &lt;li&gt;
+    &lt;span&gt;&lt;a ng-href="?id={{portal.homepage_dv}}"&gt;${Home}&lt;/a&gt;
+      &lt;i aria-hidden="true" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li ng-if="!c.expanded &amp;amp;&amp;amp; c.breadcrumbs &amp;amp;&amp;amp; c.breadcrumbs.length &gt; 2"&gt;
+    &lt;span&gt;&lt;a ng-click="c.expand()"&gt;&lt;i class="fa fa-ellipsis-h" aria-hidden="true"&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;i aria-hidden="true" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li ng-if="!c.breadcrumbs"&gt;&lt;span&gt;&lt;a style="display: inline;" href&gt;{{page.title}}&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li ng-if="c.expanded || ((c.breadcrumbs.length &gt; 2  &amp;amp;&amp;amp; $index &gt; c.breadcrumbs.length-3) || (c.breadcrumbs.length &lt;= 2))" ng-repeat="item in c.breadcrumbs track by $index"&gt;
+    &lt;span&gt;&lt;a ng-if="!$last" ng-href="{{item.url}}"&gt;{{item.label}}&lt;/a&gt;
+      &lt;a class="a-disabled" ng-if="$last" ng-href="{{item.url}}"&gt;{{item.label}}&lt;/a&gt;
+      &lt;i aria-hidden="true" ng-if="!$last" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1467095680</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>fbef7cb6dba36bc05cfc126b3a961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c387a20000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>breadcrumbs</target_name>
+<type>Widget</type>
+<update_domain>global</update_domain>
+<update_guid>86f8b017eadf6b800a0e92b3fc59a863</update_guid>
+<update_guid_history>86f8b017eadf6b800a0e92b3fc59a863:1467095680,47393218286a23007107ae293586431c:1467095680</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_page_79373eafdbcfaf4005d2147a3a961940</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css> .searchBg{&#13;
+     background-color:#000;&#13;
+}&#13;
+&#13;
+.breadcrumbs-container a {&#13;
+ color: #fff; &#13;
+}&#13;
+&#13;
+.ta-item {&#13;
+  color: #000 !important;&#13;
+}&#13;
+&#13;
+&#13;
+.breadcrumbs-container {&#13;
+  background-color:#000 !important;&#13;
+     border-bottom: 1px solid #75787B;&#13;
+    border-top: 1px solid #75787B;&#13;
+  color: #fff; &#13;
+  padding-top: 10px !important;&#13;
+    padding-bottom: 5px !important;&#13;
+}&#13;
+.subPageMainContainer{&#13;
+width:100%;&#13;
+clear:both; &#13;
+}&#13;
+&#13;
+.btn-default {&#13;
+    color: #fff;&#13;
+    background-color: #86bc25;&#13;
+    border-color: #86BC25;&#13;
+}&#13;
+.remove_container {&#13;
+  padding: 15px;&#13;
+}&#13;
+&#13;
+ body .padding-top {&#13;
+     padding: 0;&#13;
+   &#13;
+}&#13;
+&#13;
+&#13;
+ .overflow-100 h3 {&#13;
+     font-size: 18px;&#13;
+     padding:10px;&#13;
+     font-weight:bold;&#13;
+}&#13;
+ .description{&#13;
+     font-size:14px !important;&#13;
+}&#13;
+&#13;
+.eachCatelog {&#13;
+    padding: 10px 20px;&#13;
+}&#13;
+&#13;
+.homepageIteams, .breadcrumbContainer{&#13;
+padding:0px 20px;&#13;
+  &#13;
+  &#13;
+}&#13;
+</css><draft>false</draft><dynamic_title_structure/><id>aumulti_catalog_home</id><internal>false</internal><public>false</public><roles/><short_description>Catalog Home Page</short_description><sys_class_name>sp_page</sys_class_name><sys_created_by>admtanoy</sys_created_by><sys_created_on>2019-01-23 08:03:44</sys_created_on><sys_id>79373eafdbcfaf4005d2147a3a961940</sys_id><sys_mod_count>5</sys_mod_count><sys_name>aumulti_catalog_home</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_page_79373eafdbcfaf4005d2147a3a961940</sys_update_name><sys_updated_by>tbasak</sys_updated_by><sys_updated_on>2019-02-03 14:20:33</sys_updated_on><title>Make a Request </title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=79373eafdbcfaf4005d2147a3a961940"/></record_update>]]></payload>
+<payload_hash>850430787</payload_hash>
+<remote_update_set display_value="TB_SP_AUS4_NEW">f3ef7cb6dba36bc05cfc126b3a961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tbasak</sys_created_by>
+<sys_created_on>2019-02-14 11:58:32</sys_created_on>
+<sys_id>ffef7cb6dba36bc05cfc126b3a961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>168b3c386d60000001</sys_recorded_at>
+<sys_updated_by>tbasak</sys_updated_by>
+<sys_updated_on>2019-02-14 11:58:32</sys_updated_on>
+<table/>
+<target_name>aumulti_catalog_home</target_name>
+<type>Page</type>
+<update_domain>global</update_domain>
+<update_guid>35f8b01799df6b809329fe01b6533456</update_guid>
+<update_guid_history>35f8b01799df6b809329fe01b6533456:850430787,f8f638930bdf6b80558825fd6d56a7a2:850430787,6da6f093e6df6b8035b484f1ba9b3864:-888683507,78867c536cdf6b80298366a178682c39:1391024806,2467fa237403ef40103594424d904adc:1506311436,4247ba23d903ef4038fc8fe382b29438:847865420,71373eaf6fcfaf402e2349ec2319cb42:1992193752</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
